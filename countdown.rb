@@ -1,5 +1,5 @@
 #write your code here
-x = 10
+x = 0
 
 def countdown(x)
   while x is >= 10
