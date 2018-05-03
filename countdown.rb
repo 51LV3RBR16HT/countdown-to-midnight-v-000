@@ -1,9 +1,8 @@
 #write your code here
-integer = 12
 
-def countdown(integer)
+def countdown(10)
   while integer is > 12
     puts "#{integer} SECOND(S)!"
-    integer -= 0
+    integer -= 1
 end
 end
